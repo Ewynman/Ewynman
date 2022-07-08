@@ -11,4 +11,4 @@
 
 
 ### My stats ✌
-![Eddie's github stats](https://github-readme-stats.vercel.app/api?username=Ewynman)
+![Eddie's github stats][(https://github-readme-stats.vercel.app/api?username=Ewynman&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=Ewynman)
