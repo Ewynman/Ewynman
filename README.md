@@ -1,14 +1,5 @@
 <h2> Hey there! I'm Eddie.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
-
-- 🔭 &nbsp; I’m currently learning React.JS Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Computer Science and Data Science at Montclair State.
-- 💼 &nbsp; Back-end developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in web developemnt.
-
-
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Bash | Java | C 
