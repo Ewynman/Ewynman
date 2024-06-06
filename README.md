@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A New-Grad Full-Stack Developer looking for new Entry level positions!</h3>
+<h3 align="center">Curently working @Geico as a Software Engineer!</h3>
 
 - 🔭 I’m currently working on [Tasko.dev](https://github.com/Ewynman/Tasko-Dev)
 
