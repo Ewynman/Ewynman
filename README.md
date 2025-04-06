@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
 <h3 align="center">Curently working @Geico as a Software Engineer!</h3>
 
-- 🔭 I’m currently working on [Tasko.dev](https://github.com/Ewynman/Tasko-Dev)
-
 - 👨‍💻 All of my projects are available at [https://www.meeteddie.tech](https://www.meeteddie.tech)
 
 - 📄 Know about my experiences [https://www.meeteddie.tech/Files/Edward-Wynman-Resume.pdf](https://www.meeteddie.tech/Files/Edward-Wynman-Resume.pdf)
